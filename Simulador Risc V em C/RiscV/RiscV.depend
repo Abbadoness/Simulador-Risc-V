@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1669839660 source:c:\users\carlos eduardo\desktop\simulador risc v em c\riscv_func.c
+	"globals.h"
+	"riscv.h"
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1669764419 c:\users\carlos eduardo\desktop\simulador risc v em c\globals.h
+	<stdint.h>
+
+1669764466 c:\users\carlos eduardo\desktop\simulador risc v em c\riscv.h
+	"globals.h"
+
